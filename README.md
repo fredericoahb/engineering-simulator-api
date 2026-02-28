@@ -1,6 +1,6 @@
 # Engineering Simulator API
 
-![CI](https://github.com/<your-user>/engineering-simulator-api/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/fredericoahb/engineering-simulator-api/actions/workflows/ci.yml/badge.svg)
 ![.NET 8](https://img.shields.io/badge/.NET-8.0-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
