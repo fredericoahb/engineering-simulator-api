@@ -1,0 +1,29 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+.vs/
+project.lock.json
+*.nuget.props
+*.nuget.targets
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+## IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Docker
+docker-compose.override.yml
