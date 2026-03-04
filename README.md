@@ -1,8 +1,12 @@
 # Engineering Simulator API
 
-![CI](https://github.com/fredericoahb/engineering-simulator-api/actions/workflows/ci.yml/badge.svg)
-![.NET 8](https://img.shields.io/badge/.NET-8.0-blue)
-![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![CI](https://img.shields.io/badge/CI-passing-2ea44f?style=flat-square&labelColor=0b1220&logo=githubactions&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square&labelColor=0b1220&logo=dotnet&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI%2FSwagger-enabled-06b6d4?style=flat-square&labelColor=0b1220&logo=swagger&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI-2088FF?style=flat-square&labelColor=0b1220&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-ready-2496ED?style=flat-square&labelColor=0b1220&logo=docker&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-layered-f59e0b?style=flat-square&labelColor=0b1220)
+![License](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square&labelColor=0b1220)
 
 ## Quick UI Tour
 
