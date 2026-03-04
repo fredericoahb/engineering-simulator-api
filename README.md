@@ -1,13 +1,12 @@
 # Engineering Simulator API
 
-
-## Quick UI Tour (Swagger)
-
-![Swagger UI demo](docs/engineering-simulator-swagger-demo.gif)
-
 ![CI](https://github.com/fredericoahb/engineering-simulator-api/actions/workflows/ci.yml/badge.svg)
 ![.NET 8](https://img.shields.io/badge/.NET-8.0-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
+
+## Quick UI Tour
+
+![Swagger UI demo](docs/engineering-simulator-swagger-demo.gif)
 
 A professional REST API for engineering calculations and simulations — dimensionless numbers (Reynolds, Rayleigh, Wobbe) and thermodynamic cycle efficiency (Carnot). Built with .NET 8, Clean Architecture, and rigorous scientific validation.
 
